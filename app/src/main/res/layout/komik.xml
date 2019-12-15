@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="UselessParent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#2196F3"
+                android:text="@string/komik"
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:textSize="35sp" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="183dp">
+
+                <ImageButton
+                    android:id="@+id/imageButton3"
+                    android:layout_width="140dp"
+                    android:layout_height="180dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginStart="2dp"
+                    android:layout_marginBottom="0dp"
+                    android:contentDescription="@string/todo"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/buku12" />
+
+                <TextView
+                    android:id="@+id/textView17"
+                    android:layout_width="247dp"
+                    android:layout_height="102dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginEnd="2dp"
+                    android:text="@string/doraemon_gadget_cat_from_the_future_vol_1"
+                    android:textSize="25sp" />
+
+                <TextView
+                    android:id="@+id/textView18"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="152dp"
+                    android:layout_marginTop="110dp"
+                    android:text="@string/penulis_fujiko_f"
+                    tools:ignore="RelativeOverlap" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/textView22"
+                    android:layout_width="240dp"
+                    android:layout_height="100dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginEnd="13dp"
+                    android:text="@string/doraemon_gadget_cat_from_the_future_volume_10"
+                    android:textSize="25sp" />
+
+                <TextView
+                    android:id="@+id/textView23"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="154dp"
+                    android:layout_marginTop="119dp"
+                    android:text="@string/penulis_fujiko_f"
+                    tools:ignore="RelativeOverlap" />
+
+                <ImageButton
+                    android:id="@+id/imageButton4"
+                    android:layout_width="140dp"
+                    android:layout_height="180dp"
+                    android:contentDescription="@string/todo"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/buku13" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/textView11"
+                    android:layout_width="165dp"
+                    android:layout_height="89dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginEnd="89dp"
+                    android:text="@string/gundala_putra_petir"
+                    android:textSize="30sp" />
+
+                <TextView
+                    android:id="@+id/textView20"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="154dp"
+                    android:layout_marginTop="119dp"
+                    android:text="@string/penulis_hasmi"
+                    tools:ignore="RelativeOverlap" />
+
+                <ImageButton
+                    android:id="@+id/imageButton5"
+                    android:layout_width="140dp"
+                    android:layout_height="180dp"
+                    android:contentDescription="@string/todo"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/sebelas" />
+            </RelativeLayout>
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

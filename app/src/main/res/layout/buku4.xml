@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RatingBar
+        android:id="@+id/ratingBar4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="5dp"
+        android:layout_marginBottom="85dp"
+        android:progressTint="#FFEB3B" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="9dp"
+        android:layout_marginEnd="314dp"
+        android:layout_marginBottom="33dp"
+        android:background="#2196F3"
+        android:onClick="k1"
+        android:text="@string/kirim"
+        android:textColor="#FFFFFF" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="140dp"
+        android:layout_height="180dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="35dp"
+        android:background="?attr/colorButtonNormal"
+        android:contentDescription="@string/todo"
+        app:srcCompat="@drawable/empat" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="195dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="42dp"
+        android:layout_marginEnd="20dp"
+        android:text="@string/bumi_manusia"
+        android:textSize="35sp"
+        tools:ignore="RelativeOverlap" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="187dp"
+        android:layout_height="60dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="148dp"
+        android:layout_marginEnd="27dp"
+        android:text="@string/penulis_pramoedya_ananta_toer"
+        android:textSize="18sp"
+        tools:ignore="RelativeOverlap" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="337dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="249dp"
+        android:layout_marginEnd="72dp"
+        android:background="#2196F3"
+        android:onClick="r4"
+        android:text="@string/baca"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="292dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="354dp"
+        android:layout_marginEnd="7dp"
+        android:text="@string/buku_ini_bercerita_tentang_perjalanan_seorang_tokoh_bernama_minke_minke_adalah_salah_satu_anak_pribumi_yang_sekolah_di_hbs_pada_masa_itu_yang_dapat_masuk_ke_sekolah_hbs_adalah_orang_orang_keturunan_eropa_minke_adalah_seorang_pribumi_yang_pandai_ia_sangat_pandai_menulis_tulisannya_bisa_membuat_orang_sampai_terkagum_kagum_dan_dimuat_di_berbagai_koran_belanda_pada_saat_itu_sebagai_seorang_pribumi_ia_kurang_disukai_oleh_siswa_siswi_eropa_lainnya_minke_digambarkan_sebagai_seorang_revolusioner_di_buku_ini_ia_berani_melawan_ketidakadilan_yang_terjadi_pada_bangsanya_ia_juga_berani_memberontak_terhadap_kebudayaan_jawa_yang_membuatnya_selalu_di_bawah" />
+
+    <TextView
+        android:id="@+id/textView32"
+        android:layout_width="222dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="13dp"
+        android:layout_marginEnd="158dp"
+        android:layout_marginBottom="143dp"
+        android:text="@string/beri_rating_buku_ini"
+        android:textSize="18sp" />
+
+    <ImageButton
+        android:id="@+id/imageButton23"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="246dp"
+        android:layout_marginEnd="8dp"
+        android:background="#2196F3"
+        android:contentDescription="@string/todo"
+        android:onClick="berhasil"
+        app:srcCompat="@drawable/perpus" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="13dp"
+        android:layout_marginTop="330dp"
+        android:text="@string/sipnosis"
+        tools:ignore="RelativeOverlap" />
+</RelativeLayout>

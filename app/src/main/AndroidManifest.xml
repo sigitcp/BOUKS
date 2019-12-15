@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.bouks">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/bouks"
+        android:label="bouks"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="AllowBackup,GoogleAppIndexingWarning">
+        <activity android:name=".buku1"></activity>
+        <activity android:name=".katalog"></activity>
+        <activity android:name=".buku2"></activity>
+        <activity android:name=".buku3"></activity>
+        <activity android:name=".buku4"></activity>
+        <activity android:name=".buku5"></activity>
+        <activity android:name=".buku6"></activity>
+        <activity android:name=".buku7"></activity>
+        <activity android:name=".buku8"></activity>
+        <activity android:name=".buku9"></activity>
+        <activity android:name=".buku10"></activity>
+        <activity android:name=".buku11"></activity>
+        <activity android:name=".registrasi"></activity>
+        <activity android:name=".novel"></activity>
+        <activity android:name=".komik"></activity>
+        <activity android:name=".ensiklopedia"></activity>
+        <activity android:name=".biografi"></activity>
+        <activity android:name=".ilmiah"></activity>
+        <activity android:name=".politik"></activity>
+        <activity android:name=".agama"></activity>
+        <activity android:name=".geografi"></activity>
+        <activity android:name=".teknologi"></activity>
+        <activity android:name=".baca1"></activity>
+        <activity android:name=".baca2"></activity>
+        <activity android:name=".baca3"></activity>
+        <activity android:name=".baca4"></activity>
+        <activity android:name=".baca5"></activity>
+        <activity android:name=".baca6"></activity>
+        <activity android:name=".baca7"></activity>
+        <activity android:name=".baca8"></activity>
+        <activity android:name=".baca9"></activity>
+        <activity android:name=".baca10"></activity>
+        <activity android:name=".baca11"></activity>
+        <activity android:name=".bayar"></activity>
+        <activity android:name=".profil"></activity>
+        <activity android:name=".sd"></activity>
+        <activity android:name=".smp"></activity>
+        <activity android:name=".sma"></activity>
+        <activity android:name=".my"></activity>
+
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

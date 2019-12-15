@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="UselessParent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#2196F3"
+                android:text="@string/ilmiah"
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:textSize="35sp" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="183dp">
+
+                <ImageButton
+                    android:id="@+id/imageButton3"
+                    android:layout_width="140dp"
+                    android:layout_height="180dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="3dp"
+                    android:layout_marginTop="0dp"
+                    android:contentDescription="@string/todo"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/buku20" />
+
+                <TextView
+                    android:id="@+id/textView17"
+                    android:layout_width="234dp"
+                    android:layout_height="99dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginTop="6dp"
+                    android:layout_marginEnd="15dp"
+                    android:text="@string/komet"
+                    android:textSize="27sp" />
+
+                <TextView
+                    android:id="@+id/textView18"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="152dp"
+                    android:layout_marginTop="110dp"
+                    android:text="@string/penulis_tere_liye"
+                    tools:ignore="RelativeOverlap" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/textView22"
+                    android:layout_width="224dp"
+                    android:layout_height="111dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginTop="6dp"
+                    android:layout_marginEnd="27dp"
+                    android:text="@string/ceros_dan_batozar"
+                    android:textSize="28sp" />
+
+                <TextView
+                    android:id="@+id/textView23"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="154dp"
+                    android:layout_marginTop="119dp"
+                    android:text="@string/penulis_tere_liye"
+                    tools:ignore="RelativeOverlap" />
+
+                <ImageButton
+                    android:id="@+id/imageButton4"
+                    android:layout_width="140dp"
+                    android:layout_height="180dp"
+                    android:contentDescription="@string/todo"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/buku21" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/textView21"
+                    android:layout_width="259dp"
+                    android:layout_height="101dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginTop="6dp"
+                    android:layout_marginEnd="-8dp"
+                    android:text="@string/ungkapan_pemuda_gila_self_publishing"
+                    android:textSize="25sp" />
+
+                <TextView
+                    android:id="@+id/textView24"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="154dp"
+                    android:layout_marginTop="119dp"
+                    android:text="@string/penulis_bahrul_ilmi"
+                    tools:ignore="RelativeOverlap" />
+
+                <ImageButton
+                    android:id="@+id/imageButton16"
+                    android:layout_width="140dp"
+                    android:layout_height="180dp"
+                    android:contentDescription="@string/todo"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/buku22" />
+
+            </RelativeLayout>
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

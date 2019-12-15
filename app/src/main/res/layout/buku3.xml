@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageButton
+        android:id="@+id/imageButton22"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="249dp"
+        android:layout_marginEnd="6dp"
+        android:background="#2196F3"
+        android:contentDescription="@string/todo"
+        android:onClick="berhasil"
+        app:srcCompat="@drawable/perpus" />
+
+    <RatingBar
+        android:id="@+id/ratingBar2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="4dp"
+        android:layout_marginBottom="142dp"
+        android:progressTint="#FFEB3B" />
+
+    <TextView
+        android:id="@+id/textView31"
+        android:layout_width="189dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="11dp"
+        android:layout_marginEnd="193dp"
+        android:layout_marginBottom="199dp"
+        android:text="@string/beri_rating_buku_ini"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="315dp"
+        android:layout_marginBottom="91dp"
+        android:background="#2196F3"
+        android:onClick="k1"
+        android:text="@string/kirim"
+        android:textColor="#FFFFFF" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="140dp"
+        android:layout_height="180dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="35dp"
+        android:background="?attr/colorButtonNormal"
+        android:contentDescription="@string/todo"
+        app:srcCompat="@drawable/tiga" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="183dp"
+        android:layout_height="83dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="35dp"
+        android:layout_marginEnd="31dp"
+        android:text="@string/berhenti_di_kamu"
+        android:textSize="35sp"
+        tools:ignore="RelativeOverlap" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="155dp"
+        android:layout_marginEnd="49dp"
+        android:text="@string/penulis_gia_pratama"
+        android:textSize="18sp"
+        tools:ignore="RelativeOverlap" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="337dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="7dp"
+        android:layout_marginTop="249dp"
+        android:layout_marginEnd="73dp"
+        android:background="#2196F3"
+        android:onClick="r3"
+        android:text="@string/baca"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="153dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="9dp"
+        android:layout_marginTop="354dp"
+        android:layout_marginEnd="8dp"
+        android:text="@string/perkara_cinta_yang_sempat_membuatnya_terpuruk_namun_pulih_kembali_setelah_berhasil_menolong_seorang_pasiennya_yang_bisulan_perkara_tuhan_yang_memang_telah_menyiapkan_yang_terbaik_untuk_gia_dengan_memisahkan_cinta_yang_menurutnya_sempurna_sungguh_roller_coaster_kisah_cintanya_begitu_menarik_untuk_disimak_sampai_membuatnya_berada_di_posisi_kedua_untuk_novel_best_seller_bulan_november_kali_ini" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="13dp"
+        android:layout_marginTop="330dp"
+        android:text="@string/sipnosis"
+        tools:ignore="RelativeOverlap" />
+</RelativeLayout>

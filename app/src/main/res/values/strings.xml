@@ -1,0 +1,158 @@
+<resources>
+    <string name="app_name">bouks</string>
+    <string name="best_seller">  Best Reading</string>
+    <string name="todo">TODO</string>
+    <string name="new_arrival">  New Arrival</string>
+    <string name="recomended">  Recommended</string>
+    <string name="judul_buku">Judul Buku</string>
+    <string name="sipnosis">  sipnosis :</string>
+    <string name="penulis_jusua_juliando">penulis : jusua juliando</string>
+    <string name="category">  Category</string>
+    <string name="button">Button</string>
+    <string name="kategori">kategori</string>
+    <string name="kategori1">kategori</string>
+    <string name="kategori2">kategori</string>
+    <string name="kategori3">kategori</string>
+    <string name="kategori4">kategori</string>
+    <string name="kategori5">kategori</string>
+    <string name="kategori6">kategori</string>
+    <string name="kategori7">kategori</string>
+    <string name="kategori8">kategori</string>
+
+    <string name="baca">BACA</string>
+
+    <string name="lorem_ipsum_dolor_sit_amet_at_sea_diam_erat_in_nobis_ubique_has_contentiones_concludaturque_et_per_lorem_iudico_impetus_ne_nam_ipsum_eligendi_lucilius_id_duo_sed_ea_choro_tibique_has_doming_tamquam_oporteat_fugit_concludaturque_nec_no_ut_quem_posidonium_scripserit_pro_quidam_vituperata_usu_ei_dicit_munere_probatus_his_no_nonumy_libris_senserit_te_qui_lorem_ipsum_dolor_sit_amet_at_sea_diam_erat_in_nobis_ubique_has_contentiones_concludaturque_et_per_lorem_iudico_impetus_ne_nam_ipsum_eligendi_lucilius_id_duo_sed_ea_choro_tibique_inciderint_cu_has_doming_tamquam_oporteat_fugit_concludaturque_nec_no_ut_q">Lorem ipsum dolor sit amet, at sea diam erat, in nobis ubique has. Contentiones concludaturque et per, lorem iudico impetus ne nam. Ipsum eligendi lucilius id duo, sed ea choro tibique has doming tamquam oporteat. Fugit concludaturque nec no, ut quem posidonium scripserit pro. Quidam vituperata usu ei. Dicit munere probatus his no, nonumy libris senserit te qui. Lorem ipsum dolor sit amet, at sea diam erat, in nobis ubique has. Contentiones concludaturque et per, lorem iudico impetus ne nam. Ipsum eligendi lucilius id duo, sed ea choro tibique inciderint, cu has doming tamquam oporteat. Fugit concludaturque nec no, ut q</string>
+    <string name="masukkan_no_rekening">foto bukti pembayaran :</string>
+    <string name="konfirmasi">KONFIRMASI</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="_11_11">11:11</string>
+    <string name="penulis_fiersa_besari">penulis: Fiersa Besari</string>
+    <string name="bercerita_tentang_jodoh_yang_sebenarnya_nggak_akan_kemana_mana_sebelum_akhirnya_menetap_pada_1_hati_ketika_waktunya_telah_tiba">bercerita tentang jodoh yang sebenarnya nggak akan kemana-mana sebelum akhirnya menetap pada 1 hati ketika waktunya telah tiba.</string>
+    <string name="aroma_karsa">Aroma Karsa</string>
+    <string name="penulis_dee_lestari">penulis: Dee Lestari</string>
+    <string name="obsesi_raras_memburu_puspa_karsa_bunga_sakti_yang_konon_mampu_mengendalikan_kehendak_dan_cuma_bisa_diidentifikasi_melalui_aroma_memertemukannya_dengan_jati_wesi_dengan_hidung_istimewa_yang_menjadikannya_seorak_peracik_parfum_sampai_kemudian_jati_bertemu_dengan_tanaya_suma_anak_tunggal_raras_yang_memekerjakannya_saat_ini_ternyata_memiliki_hidung_yang_sama_istimewanya">Obsesi Raras memburu Puspa Karsa, bunga sakti yang konon mampu mengendalikan kehendak dan cuma bisa diidentifikasi melalui aroma, memertemukannya dengan Jati Wesi, dengan hidung istimewa yang menjadikannya seorak peracik parfum. Sampai kemudian, Jati bertemu dengan Tanaya Suma, anak tunggal Raras yang memekerjakannya saat ini ternyata memiliki hidung yang sama istimewanya.</string>
+    <string name="berhenti_di_kamu">Berhenti di Kamu</string>
+    <string name="penulis_gia_pratama">penulis: Gia Pratama</string>
+    <string name="perkara_cinta_yang_sempat_membuatnya_terpuruk_namun_pulih_kembali_setelah_berhasil_menolong_seorang_pasiennya_yang_bisulan_perkara_tuhan_yang_memang_telah_menyiapkan_yang_terbaik_untuk_gia_dengan_memisahkan_cinta_yang_menurutnya_sempurna_sungguh_roller_coaster_kisah_cintanya_begitu_menarik_untuk_disimak_sampai_membuatnya_berada_di_posisi_kedua_untuk_novel_best_seller_bulan_november_kali_ini">Perkara cinta yang sempat membuatnya terpuruk, namun pulih kembali setelah berhasil menolong seorang pasiennya yang bisulan. Perkara Tuhan yang memang telah menyiapkan yang terbaik untuk Gia dengan memisahkan cinta yang menurutnya sempurna. Sungguh roller coaster kisah cintanya begitu menarik untuk disimak sampai membuatnya berada di posisi kedua untuk novel best seller bulan November kali ini.</string>
+    <string name="bumi_manusia">Bumi Manusia</string>
+    <string name="penulis_pramoedya_ananta_toer">penulis: Pramoedya Ananta Toer</string>
+    <string name="buku_ini_bercerita_tentang_perjalanan_seorang_tokoh_bernama_minke_minke_adalah_salah_satu_anak_pribumi_yang_sekolah_di_hbs_pada_masa_itu_yang_dapat_masuk_ke_sekolah_hbs_adalah_orang_orang_keturunan_eropa_minke_adalah_seorang_pribumi_yang_pandai_ia_sangat_pandai_menulis_tulisannya_bisa_membuat_orang_sampai_terkagum_kagum_dan_dimuat_di_berbagai_koran_belanda_pada_saat_itu_sebagai_seorang_pribumi_ia_kurang_disukai_oleh_siswa_siswi_eropa_lainnya_minke_digambarkan_sebagai_seorang_revolusioner_di_buku_ini_ia_berani_melawan_ketidakadilan_yang_terjadi_pada_bangsanya_ia_juga_berani_memberontak_terhadap_kebudayaan_jawa_yang_membuatnya_selalu_di_bawah">Buku ini bercerita tentang perjalanan seorang tokoh bernama Minke. Minke adalah salah satu anak pribumi yang sekolah di HBS. Pada masa itu, yang dapat masuk ke sekolah HBS adalah orang-orang keturunan Eropa. Minke adalah seorang pribumi yang pandai, ia sangat pandai menulis. Tulisannya bisa membuat orang sampai terkagum-kagum dan dimuat di berbagai Koran Belanda pada saat itu. Sebagai seorang pribumi, ia kurang disukai oleh siswa-siswi Eropa lainnya. Minke digambarkan sebagai seorang revolusioner di buku ini. Ia berani melawan ketidakadilan yang terjadi pada bangsanya. Ia juga berani memberontak terhadap kebudayaan Jawa, yang membuatnya selalu di bawah.</string>
+    <string name="dia_adalah_kakakku">Dia Adalah Kakakku</string>
+    <string name="penulis_tere_liye">penulis: Tere Liye</string>
+    <string name="dia_adalah_kakakku_mengisahkan_perjuangan_seorang_laisa_yang_berkorban_luar_biasa_demi_adik_adiknya_dapat_bersekolah_meski_tidak_sedarah_dengannya_dengan_kondisi_fisik_laisa_yang_sempat_membuat_keempat_adiknya_khawatir_akibat_tak_kunjung_mendapatkan_jodoh_tapi_apakah_sebenarnya_laisa_peduli_dengan_tubuhnya_yang_gemuk_berambut_gimbal_dan_pendek_ataukah_dia_hanya_fokus_untuk_keempat_adiknya">Dia Adalah Kakakku mengisahkan perjuangan seorang Laisa, yang berkorban luar biasa demi adik-adiknya dapat bersekolah meski tidak sedarah dengannya. Dengan kondisi fisik Laisa yang sempat membuat keempat adiknya khawatir akibat tak kunjung mendapatkan jodoh. Tapi apakah sebenarnya Laisa peduli dengan tubuhnya yang gemuk, berambut gimbal, dan pendek? Ataukah dia hanya fokus untuk keempat adiknya?</string>
+    <string name="garis_waktu_sebuah_perjalanan_menghapus_luka">Garis Waktu: Sebuah Perjalanan Menghapus Luka</string>
+    <string name="pada_sebuah_garis_waktu_yang_merangkak_maju_akan_ada_saatnya_kau_bertemu_dengan_satu_orang_yang_mengubah_hidupmu_untuk_selamanya_kemudian_satu_orang_tersebut_akan_menjadi_bagian_terbesar_dalam_agendamu_dan_hatimu_takkan_memberikan_pilihan_apa_pun_kecuali_jatuh_cinta_biarpun_logika_terus_berkata_bahwa_risiko_dari_jatuh_cinta_adalah_terjerembab_di_dasar_nestapa">Pada sebuah garis waktu yang merangkak maju, akan ada saatnya kau bertemu dengan satu orang yang mengubah hidupmu untuk selamanya. Kemudian, satu orang tersebut akan menjadi bagian terbesar dalam agendamu. Dan hatimu takkan memberikan pilihan apa pun kecuali jatuh cinta, biarpun logika terus berkata bahwa risiko dari jatuh cinta adalah terjerembab di dasar nestapa.</string>
+    <string name="kata">Kata</string>
+    <string name="penulis_geez_aan"><![CDATA[penulis: Geez & Aan]]></string>
+    <string name="kata_bercerita_tentang_nugraha_biru_dan_binta_yang_kian_menjauh_tanpa_pernah_menjelaskan_perasaan_satu_sama_lain_mereka_harus_bicara_dan_mulai_membuka_hati_dan_mengungkapkan_isi_hati_agar_persahabatan_mereka_sempurna_kembali_dari_luka_karena_cinta">Kata, bercerita tentang Nugraha, Biru, dan Binta yang kian menjauh tanpa pernah menjelaskan perasaan satu sama lain. Mereka harus bicara dan mulai membuka hati, dan mengungkapkan isi hati agar persahabatan mereka sempurna kembali dari luka karena cinta.</string>
+    <string name="kids_zaman_neo">Kids Zaman Neo</string>
+    <string name="penulis_neona_feat_widya">penulis: Neona feat Widya</string>
+    <string name="kali_ini_aku_mau_ajak_kawan_neo_untuk_seru_seruan_saat_baca_buku_ini_mulai_dari_ceritaku_terjun_di_dunia_hiburan_bahas_passion_cita_cita_menyanyi_bersama_dan_neo_juga_bakal_ceritain_tentang_beberapa_rahasia_neo_neo_juga_nggak_sendiri_ada_keluarga_teman_teman_dan_orang_orang_yang_sudah_mengasah_talenta_neo_tapi_dibalik_ini_ada_juga_orang_orang_yang_sering_neo_jahilin_hihihii_aduh_neik_kesel_deh_bete_deh">Kali ini aku mau ajak Kawan Neo untuk seru-seruan saat baca buku ini. Mulai dari ceritaku terjun di dunia hiburan, bahas passion, cita-cita, menyanyi bersama, dan Neo juga bakal ceritain tentang beberapa rahasia Neo. Neo juga nggak sendiri, ada keluarga, teman-teman, dan orang-orang yang sudah mengasah talenta Neo. Tapi dibalik ini, ada juga orang-orang yang sering Neo jahilin. Hihihii…, aduh neik, kesel deh… bete deh!</string>
+    <string name="nanti_kita_cerita_tentang_hari_ini">Nanti Kita Cerita Tentang Hari Ini</string>
+    <string name="penulis_marchella_fp">penulis: Marchella Fp</string>
+    <string name="buku_visual_grafis_yang_menceritakan_tentang_perempuan_bernama_awan_27th_yang_takut_akan_lupa_rasanya_menjadi_muda_jadi_dia_membuat_surat_yang_dia_kirim_untuk_masa_depan_sebagai_pengingat_untuk_dia_dan_anaknya_kelak_berisikan_kumpulan_pesan_dan_cerita_dari_yang_ia_hadapi_dan_lihat_awan_mencoba_sederhanakan_dari_pelajaran_yang_dia_hadapin_di_masa_mudanya">Buku visual grafis, yang menceritakan tentang perempuan bernama Awan (27th) yang takut akan lupa rasanya menjadi muda, jadi dia membuat surat yang dia kirim untuk masa depan. Sebagai pengingat untuk dia dan anaknya kelak. Berisikan kumpulan pesan dan cerita dari yang ia hadapi dan lihat. Awan mencoba sederhanakan dari pelajaran yang dia hadapin di masa mudanya.</string>
+    <string name="rentang_kisah">Rentang Kisah</string>
+    <string name="penulis_gita_savitri">penulis: Gita Savitri.</string>
+    <string name="rentang_kisah_bercerita_tentang_pengalaman_gitasav_saat_kuliah_di_jerman_termasuk_berbagai_permasalahan_personal_lainnya_seperti_tujuan_hidup_serta_hubungan_dengan_sang_ibu_pengalaman_bersama_ibudanya_lah_yang_mengajarkan_gita_untuk_hidup_mandiri_di_negara_yang_menjadi_tempatnya_menimba_ilmu_tersebut">Rentang Kisah bercerita tentang pengalaman Gitasav saat kuliah di Jerman, termasuk berbagai permasalahan personal lainnya seperti tujuan hidup serta hubungan dengan sang ibu. Pengalaman bersama ibudanya lah yang mengajarkan Gita untuk hidup mandiri di negara yang menjadi tempatnya menimba ilmu tersebut.</string>
+    <string name="gundala_putra_petir">Gundala Putra Petir</string>
+    <string name="penulis_hasmi">penulis: Hasmi</string>
+    <string name="ketika_keadaan_kota_makin_buruk_dan_ketidakadilan_berkecamuk_di_seluruh_negara_sancaka_harus_memutuskan_apakah_dia_terus_hidup_menjaga_dirinya_sendiri_atau_bangkit_menjadi_pahlawan_bagi_mereka_yang_tertindas">Ketika keadaan kota makin buruk dan ketidakadilan berkecamuk di seluruh negara, Sancaka harus memutuskan, apakah dia terus hidup menjaga dirinya sendiri atau bangkit menjadi pahlawan bagi mereka yang tertindas.</string>
+
+    <string name="log_in">LOG IN</string>
+    <string name="dont_have_account">Dont have account?</string>
+    <string name="bouks">BOUKS</string>
+    <string name="komik">komik</string>
+    <string name="novel">novel</string>
+    <string name="ensiklopedia">ensiklopedia</string>
+    <string name="ilmiah">ilmiah</string>
+    <string name="biografi">biografi</string>
+    <string name="politik">politik</string>
+    <string name="agama">agama</string>
+    <string name="teknologi">teknologi</string>
+    <string name="geografi">geografi</string>
+    <string name="penulis_fujiko_f">penulis: Fujiko f.</string>
+    <string name="doraemon_gadget_cat_from_the_future_vol_1">Doraemon: Gadget Cat from the Future, Vol. 1</string>
+    <string name="doraemon_gadget_cat_from_the_future_volume_10">Doraemon: Gadget cat from the future, Volume 10</string>
+    <string name="penilis_lingkar_kata">penilis: Lingkar Kata</string>
+    <string name="buku_pintar_bumi_dan_antariksa">BUKU PINTAR BUMI DAN ANTARIKSA</string>
+    <string name="atlas_dinosaurus_ensiklopedia">ATLAS DINOSAURUS-ENSIKLOPEDIA</string>
+    <string name="penulis_paula_hammond">penulis: Paula Hammond</string>
+    <string name="buku_pintar_hewan">BUKU PINTAR HEWAN</string>
+    <string name="biografi_lengkap_karl_marx">BIOGRAFI LENGKAP KARL MARX</string>
+    <string name="penulis_muhammad_ali_fakih">penulis: Muhammad Ali Fakih</string>
+    <string name="biografi_gus_dur">BIOGRAFI GUS DUR</string>
+    <string name="penulis_greg_barton">penulis: Greg Barton</string>
+    <string name="sukarno_biografi_lengkap_negarawan_sejati">SUKARNO : BIOGRAFI LENGKAP NEGARAWAN SEJATI</string>
+    <string name="penulis_anom_whani_wicaksana">penulis: ANOM WHANI WICAKSANA</string>
+    <string name="komet">KOMET</string>
+    <string name="ceros_dan_batozar">CEROS DAN BATOZAR</string>
+    <string name="ungkapan_pemuda_gila_self_publishing">UNGKAPAN PEMUDA GILA (SELF PUBLISHING)</string>
+    <string name="penulis_bahrul_ilmi">penulis: Bahrul Ilmi</string>
+    <string name="penulis_panji_pragiwaksono">penulis: Panji Pragiwaksono</string>
+    <string name="juru_bicara">JURU BICARA</string>
+    <string name="the_seat_of_the_soul_visi_spiritual_tentang_takdir_manusia">THE SEAT OF THE SOUL - VISI SPIRITUAL TENTANG TAKDIR MANUSIA</string>
+    <string name="penulis_gary_zukav">penulis: GARY ZUKAV</string>
+    <string name="fields_of_blood">FIELDS OF BLOOD</string>
+    <string name="penulis_karen_armstrong">penulis: Karen Armstrong</string>
+    <string name="menyoal_status_agama_agama_pra_islam">MENYOAL STATUS AGAMA AGAMA PRA ISLAM</string>
+    <string name="penulis_dr_h_sa_dullah_affandy">penulis: Dr. H. Sa`dullah Affandy</string>
+    <string name="praktis_dan_mudah_membuat_toko_online">PRAKTIS DAN MUDAH MEMBUAT TOKO ONLINE</string>
+    <string name="penulis_jefferly_helianthusonfri">penulis: Jefferly Helianthusonfri</string>
+    <string name="mudah_dan_cepat_membuat_program_skripsi_dan_tugas_akhir_dengan_java">MUDAH DAN CEPAT MEMBUAT PROGRAM SKRIPSI DAN TUGAS AKHIR DENGAN JAVA</string>
+    <string name="koleksi_program_web_java">KOLEKSI PROGRAM WEB JAVA</string>
+    <string name="penulis_ir_yuniar_supardi">penulis: IR. YUNIAR SUPARDI</string>
+    <string name="himpunan_lengkap_undang_undang_hak_cipta_paten_merek_dan_indikasi_geografis_serta_hak_kekayaan_intelektual_hki">HIMPUNAN LENGKAP UNDANG-UNDANG HAK CIPTA, PATEN, MEREK DAN INDIKASI GEOGRAFIS, SERTA HAK KEKAYAAN INTELEKTUAL (HKI)</string>
+    <string name="buku_laporan_monografi_dan_profil_desa">BUKU LAPORAN MONOGRAFI DAN PROFIL DESA</string>
+    <string name="kartu_pintar_geografi">KARTU PINTAR GEOGRAFI</string>
+    <string name="kirim">kirim</string>
+    <string name="sisa_waktu">SISA WAKTU BERLANGGANAN</string>
+    <string name="_18">18</string>
+    <string name="hari">HARI</string>
+    <string name="sd">SD</string>
+    <string name="sma">SMA</string>
+    <string name="smp">SMP</string>
+    <string name="beri_rating_buku_ini">Beri rating buku ini</string>
+    <string name="contact_us">contact us</string>
+    <string name="bouks_support_gmail_com">bouks.support@gmail.com</string>
+    <string name="_0561_730022_bouks_id">(0561) 730022 | @bouks.id</string>
+    <string name="_1_masukkan_kartu_atm_kemudian_masukkan_nomor_pin_anda_2_pilih_transaksi_lainnya_kemudian_pilih_transfer_3_silahkan_masukkan_no_bca_virtual_account_74102000xxxxxxxx_lalu_tekan_benar_4_periksa_kembali_data_transaksi_kemudian_tekan_benar_5_simpan_struk_anda_sebagai_bukti_pembayaran_penjual_akan_menerima_notifikasi_pembayaran">1. Masukkan kartu ATM kemudian masukkan nomor PIN Anda \n
+        2. Pilih Transaksi lainnya, kemudian pilih Transfer \n
+        3. ketikan nominal sebesar 50.000 \n
+        4. Silahkan masukkan no. BCA Virtual Account (5485-078-778), lalu tekan Benar \n
+        5. Periksa kembali data transaksi kemudian tekan Benar \n
+        6. Simpan struk Anda sebagai bukti pembayaran \n
+        7. foto bukti pembayaran lalu apload di aplikasi BOUKS \n
+        8. tekan tombol "Konfirmasi" \n
+        9. transaksi akan di proses dalam wakri 1x24 jam.</string>
+    <string name="pilih_gambar">pilih gambar</string>
+    <string name="kelas_01_sd_tematik_1_diriku_siswa_2017">Kelas 01 SD Tematik 1 Diriku Siswa 2017</string>
+    <string name="kelas_01_sd_tematik_4_keluargaku_siswa">Kelas 01 SD Tematik 4 Keluargaku Siswa</string>
+    <string name="kelas_08_smp_ilmu_pengetahuan_alam_s2_siswa_2017">Kelas 08 SMP Ilmu Pengetahuan Alam S2 siswa 2017</string>
+    <string name="paket_detik_detik_un_smp_mts_2018_2019">Paket Detik-Detik UN SMP/MTs 2018/2019</string>
+    <string name="buku_kimia_untuk_sma_ma_kelas_x_peminatan_kurikulum_2013_edisi_revisi">BUKU KIMIA UNTUK SMA/MA KELAS X PEMINATAN KURIKULUM 2013 EDISI REVISI</string>
+    <string name="kelas_11_sma_matematika_siswa_2017">Kelas 11 SMA Matematika siswa 2017</string>
+    <string name="my_library">My library</string>
+    <string name="pembayaran">Pembayaran</string>
+    <string name="profil">Profil</string>
+    <string name="anda_belum_berlangganan">ANDA BELUM BERLANGGANAN</string>
+
+
+</resources>
